@@ -1,4 +1,4 @@
-# Olá, sou o Bruno Santos 👋
+# Olá, sou o Bruno Santos
 
 Estudo cibersegurança com foco em segurança defensiva e de aplicações. Desenvolvo projetos em Python e aplicações full stack para colocar meus estudos em prática.
 
